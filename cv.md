@@ -5,7 +5,7 @@
 * __Phone:__  +375447340190
 * __Email:__  erina.ez@yandex.ru
 * __GitHub:__  EugeniaMolchan
-* __nickname on the discord server rs school:__  Eugenia(@EugeniaMolchan)
+* __Nickname on the discord server rs school:__  Eugenia(@EugeniaMolchan)
 
 ### About myself
 I want to study frontend development because it's very interesting and develops brains and I also want to work.
